@@ -15,3 +15,7 @@ Made by **Plazma**
 ## Credits & Acknowledgments
 
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++ library
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
